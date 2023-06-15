@@ -1,0 +1,87 @@
+#team {
+    background: url("../img/back.jpeg") no-repeat center center fixed;
+    padding: 60px 0;
+    text-align: center;
+    background-size: cover;
+    
+    }
+    #team h2 {
+    color: rgb(53, 46, 46);
+    }
+    img{
+        border-radius: 50%;
+    }
+    #team p {
+    color: rgb(167, 64, 64);
+    line-height: 25px;
+    }
+    #team h4 {
+    padding-top: 10px;
+    color: rgb(22, 13, 13);
+    font-weight:bold;
+    }
+    #team p.large {
+    margin-top: 60px;
+    margin-bottom: 30px;
+    }
+    #team .fa {
+    width: 30px;
+    height: 30px;
+    margin: 0 3px;
+    border-radius: 100%;
+    font-size: 15px;
+    line-height: 30px;
+    outline: 0;
+    color: #fff;
+    background-color: #e91e63;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    transition: all .3s;
+    }
+    #team .fa:hover {
+    background-color: #673ab7;
+    }
+    .teamborder {
+    border: 1px solid lightgray;
+    padding: 20px;
+    }
+    hr {
+    display: block;
+    height: 3px;
+    border: 0;
+    margin: 3em 0;
+    padding: 0;
+    background-image: linear-gradient(left, #fff, #e6e6e6, #fff);
+    background-image: -webkit-linear-gradient(left, #fff, #e6e6e6, #fff);
+    background-image: -moz-linear-gradient(left, #fff, #e6e6e6, #fff);
+    background-image: -o-linear-gradient(left, #fff, #e6e6e6, #fff);
+    width: 50%;
+    left: 25%;
+    position: relative;
+    border: none;
+    }
+    #team hr {
+    display: block;
+    height: 3px;
+    border: 0;
+    margin: 3em 0;
+    padding: 0;
+    background-image: linear-gradient(left, rgba(255, 255, 255, 0), #71c9d6, rgba(255, 255, 255, 0));
+    background-image: -webkit-linear-gradient(left, rgba(255, 255, 255, 0), #71c9d6, rgba(255, 255, 255, 0));
+    background-image: -moz-linear-gradient(left, rgba(255, 255, 255, 0), #71c9d6, rgba(255, 255, 255, 0));
+    background-image: -o-linear-gradient(left, rgba(255, 255, 255, 0), #71c9d6, rgba(255, 255, 255, 0));
+    width: 50%;
+    left: 25%;
+    position: relative;
+    border: none;
+    }
+    .row {
+    margin: 10px;
+    }
+    .team-md {
+    box-shadow: inset 0px 0px 22px 2px #e3d1d1;
+    transition: .2s ease-out;
+    }    
+
+
+    
